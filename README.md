@@ -5,7 +5,8 @@
   
   ## I am ...
   Jeongmin Park\
-  who is the student developer
+  who is the student developer\
+  who is crazy at JS
 </details>
 
 <details>
