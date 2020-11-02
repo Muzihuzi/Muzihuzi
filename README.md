@@ -27,8 +27,6 @@
 </details>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muzihuzi&count_private=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzihuzi&count_private=true&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muzihuzi&count_private=true)ㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzihuzi&count_private=true&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats) -->
