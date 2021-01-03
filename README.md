@@ -4,9 +4,7 @@
   <summary>Q. who are you?</summary>
   
   ## I am ...
-  Jeongmin Park\
-  who is the student developer\
-  who is crazy at JS
+  SO CUTE!
 </details>
 
 <details>
