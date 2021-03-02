@@ -13,8 +13,11 @@
   ## Let's SEE
   | project name  | Position | Url |
   |:-------------------- |:--------:|:------ |
-  | Stop-Uncle (아저씨 그만) | backend | [`github`](https://github.com/Team-WAVE-x/Stop-uncle)
-  | Choa bot (초아봇)        | Owner(full stack) | [`discord`](https://discord.gg/Jz6pmBh), [`kdbl`](https://koreanbots.dev/bots/634033788938223617)
+  | Stop-Uncle (아저씨 그만) | backend | [`Repo`](https://github.com/Team-WAVE-x/Stop-uncle)
+  | Choa bot (초아봇)        | Owner(full stack) | [`discord`](https://discord.gg/Jz6pmBh), [`kdbl`](https://koreanbots.dev/bots/634033788938223617), [`Web`](https://choa.teamps.shop)
+  | edaudi.ga (주소단축기 어디.가)        | Owner(full stack) | ['Web'](http://eaudi.ga/)
+  | TP_forum (팀파스텔 포럼 관리봇) | Owner(full stack) | [`discord`](https://discord.gg/Jz6pmBh), [`Repo`](https://github.com/Muzihuzi/TP_Forum)
+  
 </details>
 
 <details>
