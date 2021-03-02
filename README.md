@@ -5,6 +5,7 @@
   
   ## I am ...
   SO CUTE!
+  Who hates PYTHON(I called it 뱀장어)
 </details>
 
 <details>
