@@ -7,6 +7,15 @@
   SO CUTE!<br>
   Who hates PYTHON(I called it 뱀장어)
 </details>
+<details>
+  <summary>Q. My projects</summary>
+  
+  ## Click ME!
+  | project name  | Position | Url |
+  |:-------------------- |:--------:|:------ |
+  | Stop-Uncle (아저씨 그만) | backend | [`github`](https://github.com/Team-WAVE-x/Stop-uncle)
+  | Choa bot (초아봇)        | Owner(full stack) | [`discord`](https://discord.gg/Jz6pmBh), [`kdbl`](https://koreanbots.dev/bots/634033788938223617)
+</details>
 
 <details>
   <summary>Q. where do you work?</summary>
