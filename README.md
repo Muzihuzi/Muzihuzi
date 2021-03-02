@@ -10,7 +10,7 @@
 <details>
   <summary>Q. My projects</summary>
   
-  ## Click ME!
+  ## Let's SEE
   | project name  | Position | Url |
   |:-------------------- |:--------:|:------ |
   | Stop-Uncle (아저씨 그만) | backend | [`github`](https://github.com/Team-WAVE-x/Stop-uncle)
