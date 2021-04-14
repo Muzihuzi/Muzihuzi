@@ -36,7 +36,7 @@
   ## Contact
   * email ([dyij@teampastel.kro.kr](mailto:dyij@teampastel.kro.kr))
   * discord ([!낌새#6643](https://discord.gg/Jz6pmBh))
-  * [![Discord](https://discord.c99.nl/widget/theme-3/712196368630022195.png)](http://discord.com/users/430352599535976458)
+  * [![Discord](https://discord.c99.nl/widget/theme-3/430352599535976458.png)](http://discord.com/users/430352599535976458)
 </details>
 
 
