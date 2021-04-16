@@ -28,6 +28,7 @@
   |:-------------------- |:--------:|:------ |
   | Team Pastel     | Owner    | [`discord`](https://discord.gg/Jz6pmBh)
   | Team Wave            | Member (backend Dev)   | [`discord`](https://discord.gg/ctFpAHj), [`github`](https://github.com/Team-WAVE-x)
+  | Team Delta    | Member(planning)   | nothing here :C
 </details>
 
 <details>
