@@ -17,7 +17,7 @@
   | Choa bot (초아봇)        | Owner(full stack) | [`discord`](https://discord.gg/Jz6pmBh), [`kdbl`](https://koreanbots.dev/bots/634033788938223617), [`Web`](https://choa.teamps.shop)
   | eaudi.ga (주소단축기 어디.가)        | Owner(full stack) | [`Web`](http://eaudi.ga/)
   | TP_forum (팀파스텔 포럼 관리봇) | Owner(full stack) | [`discord`](https://discord.gg/Jz6pmBh), [`Repo`](https://github.com/Muzihuzi/TP_Forum)
-  
+  more in [`HERE`](https://www.notion.so/d5e7316feda9485790da8fa4b251ebbc)
 </details>
 
 <details>
