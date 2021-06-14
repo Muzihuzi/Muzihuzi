@@ -28,7 +28,7 @@
   |:-------------------- |:--------:|:------ |
   | Team Pastel     | Owner    | [`discord`](https://discord.gg/Jz6pmBh)
   | Team Wave            | Member (backend Dev)   | [`discord`](https://discord.gg/ctFpAHj), [`github`](https://github.com/Team-WAVE-x)
-  | DIN    | Member(backend Dev)   | [`dimigo.in`](https://github.com/dimigoin), [`dimigo.in`](https://github.com/Dimigo-Life-Team)
+  | DIN    | Member(backend Dev)   | [`dimigo.in`](https://github.com/dimigoin), [`dimigo.life`](https://github.com/Dimigo-Life-Team)
   | Team Delta    | Member(planning)   | nothing here :C
 </details>
 
