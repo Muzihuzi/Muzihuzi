@@ -41,6 +41,10 @@
 </details>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muzihuzi&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzihuzi&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muzihuzi&count_private=true)
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzihuzi&count_private=true&layout=compact)
+<br>
+**백준은 열심히 올리는중**<br>
+![boj-status](http://mazassumnida.wtf/api/v2/generate_badge?boj=yurihana)
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats) -->
